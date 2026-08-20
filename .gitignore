@@ -1,0 +1,26 @@
+# Build artifacts
+bin/
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.sln
+*.user
+
+# Test outputs
+crash.cnf
+*.cnf
+results/
+
+# OS generated files
+.DS_Store
+Thumbs.db
