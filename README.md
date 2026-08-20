@@ -76,3 +76,19 @@ python tests/fuzzer.py
 
 ## License
 MIT License
+
+## 📜 Academic Citation
+
+As stipulated by the license, if you use ParaSAT in your academic research, you are **required** to cite our work. Please use the following BibTeX entry:
+
+`ibtex
+@article{parasat2026,
+  title={ParaSAT: A 4-Layer Adaptive Heterogeneous Architecture for Massively Parallel Propositional SAT Solving},
+  author={Ankan},
+  year={2026},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/Alphoenixx/ParaSAT}}
+}
+`
+
